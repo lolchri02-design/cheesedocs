@@ -1,13 +1,13 @@
-# Getting Started
+# 🚧 Getting Started
 
 ### Disable all antivirus on your computer (No we are not trying to "hack" you) this is to allow loaders to run properly <a href="#disable-all-antivirus-on-your-computer-no-we-are-not-trying-to-hack-you-this-is-to-allow-loaders-to" id="disable-all-antivirus-on-your-computer-no-we-are-not-trying-to-hack-you-this-is-to-allow-loaders-to"></a>
 
 1. Go to your windows "Virus and Threat Protection" Settings - Turn off real time protection
-2. Download Dcontrol [here](https://drive.usercontent.google.com/download?id=1jxmKjN820qP_cLZLgbeBi-aP5DUbROle\&export=download\&authuser=0)
+2.  Download Dcontrol [here](https://drive.usercontent.google.com/download?id=1jxmKjN820qP_cLZLgbeBi-aP5DUbROle\&export=download\&authuser=0)
 
-   1. Click the "Disable Windows Defender" Button if it works properly it should look like below:
+    1. Click the "Disable Windows Defender" Button if it works properly it should look like below:
 
-   ![](https://team073.gitbook.io/~gitbook/image?url=https%3A%2F%2F1007964587-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FhVRvo5LSxJWykyo7Sd1t%252Fuploads%252Fgit-blob-5c8c02f055a2e40561f4440eea101c454569e935%252Fimage_2024-08-20_083859552.png%3Falt%3Dmedia\&width=768\&dpr=4\&quality=100\&sign=202f1d4c\&sv=2)
+    ![](https://team073.gitbook.io/~gitbook/image?url=https%3A%2F%2F1007964587-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FhVRvo5LSxJWykyo7Sd1t%252Fuploads%252Fgit-blob-5c8c02f055a2e40561f4440eea101c454569e935%252Fimage_2024-08-20_083859552.png%3Falt%3Dmedia\&width=768\&dpr=4\&quality=100\&sign=202f1d4c\&sv=2)
 3. Uninstall any 3rd party Antivirus (Norton, Total AV, Aura, BitDefender, McAfee, etc )
 
 ![](https://team073.gitbook.io/~gitbook/image?url=https%3A%2F%2F1007964587-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FhVRvo5LSxJWykyo7Sd1t%252Fuploads%252Fk62zTLiQD3QAi6TsghlE%252Fins.webp%3Falt%3Dmedia%26token%3D73124cf1-8576-4f40-a8b7-685228818152\&width=768\&dpr=4\&quality=100\&sign=5cff29a3\&sv=2)
@@ -21,11 +21,11 @@ This page will help you to turn on virtualization in BIOS.
 ![](https://idupegtas-organization.gitbook.io/~gitbook/image?url=https%3A%2F%2F2627785555-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4wPsTeF1bcWTyN6pIROn%252Fuploads%252FF0UKswyYPYc792BwuUPX%252Fvirtual.png%3Falt%3Dmedia%26token%3D938a9df1-3a4d-4975-97bd-326ae8456a62\&width=768\&dpr=4\&quality=100\&sign=a51bc3c7\&sv=1)
 
 * If your Virtualization says it's disabled, then lets head to your BIOS to turn it on. If it is enabled, then you can go ahead and skip to the next step.
-* **Virtualization for Intel Users:**
+*   **Virtualization for Intel Users:**
 
-  Once in your BIOS settings, head over to the advanced tab and select CPU configuration.
+    Once in your BIOS settings, head over to the advanced tab and select CPU configuration.
 
-  From there, go to Intel Virtualization Technology, and enable it. Your BIOS settings may differ depending on your manufacturer. Do not exit BIOS, as the next step requires you to be in it.
+    From there, go to Intel Virtualization Technology, and enable it. Your BIOS settings may differ depending on your manufacturer. Do not exit BIOS, as the next step requires you to be in it.
 
 ![](https://idupegtas-organization.gitbook.io/~gitbook/image?url=https%3A%2F%2F2627785555-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4wPsTeF1bcWTyN6pIROn%252Fuploads%252FbnsETZLPoTGttNCXjcEa%252Fimage%2520%281%29.png%3Falt%3Dmedia%26token%3De2e023c3-b0ae-438a-83f8-3ddeeda625c9\&width=768\&dpr=4\&quality=100\&sign=70d574b1\&sv=1)
 
@@ -65,14 +65,14 @@ This page will help you disable your Antivirus Software in Windows.
 
 **3rd party Antivirus:**
 
-* Press windows key, type "Add or remove program", and in that list of programs, delete any that are antivirus. Here's a list of them: <https://bestantivirus.com/antivirus-companies.html>
+* Press windows key, type "Add or remove program", and in that list of programs, delete any that are antivirus. Here's a list of them: [https://bestantivirus.com/antivirus-companies.html](https://bestantivirus.com/antivirus-companies.html)
 
 **Windows Security:**
 
 * You can use Defender Control to disable Windows Security if you are on Windows 10:
-* <https://www.sordum.org/downloads/?st-defender-control>
+*   [https://www.sordum.org/downloads/?st-defender-control](https://www.sordum.org/downloads/?st-defender-control)
 
-  Password: sordum
+    Password: sordum
 
 ![](https://idupegtas-organization.gitbook.io/~gitbook/image?url=https%3A%2F%2F2627785555-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4wPsTeF1bcWTyN6pIROn%252Fuploads%252FDx6h0zhhMjXCh3woquym%252Fimage%2520%282%29.png%3Falt%3Dmedia%26token%3D6e09ecbf-c56a-45fc-8f87-d18d455c570b\&width=768\&dpr=4\&quality=100\&sign=a207bb6\&sv=1)
 
@@ -80,7 +80,7 @@ If you aren't on Windows 10 then do the following:
 
 * Disable Real-Time Protection in Windows Security
   * You can also add exclusions on the bottom of the page to keep your loaders from getting deleted occasionally.
-* If you get "An error occurred while trying to load the driver, please contact support." or a DRIVER 0*x*1001-0*x*1003 error, uninstall the latest security update installed on your computer.
+* If you get "An error occurred while trying to load the driver, please contact support." or a DRIVER &#x30;_&#x78;_&#x31;001-&#x30;_&#x78;_&#x31;003 error, uninstall the latest security update installed on your computer.
 
 ![](https://idupegtas-organization.gitbook.io/~gitbook/image?url=https%3A%2F%2F2627785555-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4wPsTeF1bcWTyN6pIROn%252Fuploads%252Fvnxl3de2YcM0SIDoLUQX%252FScreenshot%25202024-07-18%2520183904.png%3Falt%3Dmedia%26token%3D563df039-1202-400d-9a61-fb24a61d781a\&width=768\&dpr=4\&quality=100\&sign=7be846d4\&sv=1)
 
@@ -124,10 +124,10 @@ Head to the main menu of Windows Security, then click on Device Security. Click 
 This page will help you disable the Vulnerable Driver Blocklist in Windows.
 
 * If you are Windows 11 22H2, then we need to also turn off Core Isolation. Head back to the main menu of Windows Security, then click on Device Security. Click Core Isolation Details, then turn off Memory Integrity. Restart your PC after making these changes.
-* Now you must make sure you don't have any 3rd Party Antivirus software active. Press your windows key, type "Add or remove program", and in that list of programs, delete any that are antivirus. Here's a list of them - <https://tinyurl.com/yyasj83u>
+* Now you must make sure you don't have any 3rd Party Antivirus software active. Press your windows key, type "Add or remove program", and in that list of programs, delete any that are antivirus. Here's a list of them - [https://tinyurl.com/yyasj83u](https://tinyurl.com/yyasj83u)
 * Disable the Vulnerable Driver Blocklist (Only Required for Windows 11 22H2)
   * Start by opening a Command Prompt as Admin. Once open, copy and paste the following line of code, then type "y" or "yes" to confirm the changes: `reg add HKLM\SYSTEM\CurrentControlSet\Control\CI\Config /v VulnerableDriverBlocklistEnable /t REG_DWORD /d 0x000000`
-  * It may ask you to overwrite/create a new registry key, which you can also type "y" or "yes" to confirm that. Restart your PC after making these changes. or run the following as admin. <https://mega.nz/file/QccXBTbT#CNAjOjDm_ThhiKOPnqsIEosgnqLym8mIEOfUUwbtc-k>
+  * It may ask you to overwrite/create a new registry key, which you can also type "y" or "yes" to confirm that. Restart your PC after making these changes. or run the following as admin. [https://mega.nz/file/QccXBTbT#CNAjOjDm\_ThhiKOPnqsIEosgnqLym8mIEOfUUwbtc-k](https://mega.nz/file/QccXBTbT#CNAjOjDm_ThhiKOPnqsIEosgnqLym8mIEOfUUwbtc-k)
 
 ### C++ Redistributables <a href="#c-redistributables" id="c-redistributables"></a>
 
