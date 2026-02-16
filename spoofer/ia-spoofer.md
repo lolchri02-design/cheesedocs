@@ -1,3 +1,0 @@
-# IA - Spoofer
-
-UPDATING
