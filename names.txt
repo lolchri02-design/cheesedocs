@@ -1,1 +1,1 @@
-escape-from-tarkov/cheesebunker: CheeseBunker - Full / Lite
+escape-from-tarkov/cheesebunker: cheese
